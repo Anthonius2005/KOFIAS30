@@ -9,3 +9,4 @@
     <?= WELCOME TO TV TEKNOLOGI !"; ?>
     </body>
     </html>TESHDJASHDKSHDAKD
+    tugass ini di buat olehh anthonius kofias
